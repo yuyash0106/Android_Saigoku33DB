@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="app_name">DB三十三所巡礼</string>
+
+    <string name="honzon">本尊</string>
+    <string name="ethonzon"></string>
+
+    <string name="syushi">宗旨</string>
+    <string name="etsyushi"></string>
+
+    <string name="address">所在地</string>
+    <string name="etaddress"></string>
+
+    <string name="URL">URL</string>
+    <string name="etURL"></string>
+
+    <string name="note">感想</string>
+    <string name="etnote"></string>
+</resources>
